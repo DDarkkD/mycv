@@ -16,13 +16,13 @@ body {
     text-align: center;
     background:  black;
     position: absolute;
-    left: 40%;
-    right: 40%;
-    top: 20%;
-    bottom: 20%;
+    left: 20%;
+    right: 20%;
+    top: 10%;
+    bottom: 10%;
 }
 .container {
-    width:450px;
+    width:400px;
     height:550px;
     border-radius: 10px;
     background: linear-gradient(var(--cl1), var(--cl2));
